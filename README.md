@@ -2,7 +2,7 @@
 
 ## Instructions
 
-* Get your parteners Mod 2 project GitHub repository
+* Get your parteners Mod 2 project GitHub repository url
 
 * Clone the repository down, and launch their project
 
