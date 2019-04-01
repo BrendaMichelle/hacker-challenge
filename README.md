@@ -23,4 +23,4 @@
   * You can make the text funny colors
   * You can rotate random things
 
-* Once you have fiddled to your hearts content, take as screen shot of the page and slack it to Josh & Scott.
+* Once you have fiddled to your hearts content, take a screen shot of the page and slack it to Josh & Scott.
